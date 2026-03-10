@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi, I'm Joe 👋
+I'm a student who enjoys building things with technology and learning how systems work. 
+## What I'm Learning
+- Programming and automation
+- Microcontrollers and hardware projects
+- Engineering and problem solving
+## Projects
+- Raspberry Pi experiments
+- Automation tools and scripts
+- Tic Tac Joe
+- Learning programming languages 
+- Security
+## Goals
+- Build useful tools that make life easier
+- Improve my programming and engineering skills
+- Work on projects every day and keep learning
+- Design innovative solutions and options to daily problems
+- Create and own a business
+## Interests
+Automation • Engineering • Programming • Helping people 
+
+
+
 
 <!--
 **JKneeland813/JKneeland813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
