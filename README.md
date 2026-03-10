@@ -1,14 +1,12 @@
 ## Hi, I'm Joe 👋
 I'm a student who enjoys building things with technology and learning how systems work. 
 ## What I'm Learning
-- Programming and automation
+- Programming languages and automation
 - Microcontrollers and hardware projects
 - Engineering and problem solving
 ## Projects
-- Raspberry Pi experiments
 - Automation tools and scripts
 - Tic Tac Joe
-- Learning programming languages 
 - Security
 ## Goals
 - Build useful tools that make life easier
